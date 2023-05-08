@@ -1,0 +1,146 @@
+{
+  "posts": [
+    {
+      "id":"1",
+      "Name":"hhshs"
+    }
+  ],
+  "signupUsers": [
+    {
+      "email": "globoinstitute@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "signupStudents": [
+    {
+      "id": "1",
+      "name": "suraj",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "mobile": "9876544"
+    },
+    {
+      "id": "a3SRA3r",
+      "fullname": "shubham",
+      "email": "shubham123@gmail.com",
+      "password": "123456",
+      "mobile": 9876543210
+    },
+    {
+      "id": "FPtbn0q",
+      "fullname": "kaushar",
+      "email": "kaushar@gmail.com",
+      "password": "123456",
+      "mobile": 987765
+    },
+    {
+      "id": "WjdULCt",
+      "fullname": "shubham srivastav",
+      "email": "shubhamsri@gmail.com",
+      "password": "shubham1234",
+      "mobile": 9878787877
+    },
+    {
+      "id": "sMuKMho",
+      "fullname": "Mr. Rahul Patil",
+      "email": "rahul@gmail.com",
+      "password": "Rahul123456",
+      "mobile": 9879686958
+    },
+    {
+      "id": "LrV8dIH",
+      "fullname": "gsgsg",
+      "email": "abcd@gmail",
+      "password": "Rahul12345",
+      "mobile": 9898787878
+    },
+    {
+      "id": "lszXiE4",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "YqMIo1p",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "huBXRsm",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "ZmbUPm9",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "PIySSTf",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "sE2XqsB",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "WVjFNuR",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "RdPruVW",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "dDVKN6H",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "yDQoQvr",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "zlj_PEZ",
+      "fullname": "Shubham srivastava ",
+      "email": "shubham@gmail.com",
+      "password": "Shubham1234",
+      "mobile": 9985577784
+    },
+    {
+      "id": "jmwOc5t",
+      "fullname": "Mr. Rahul Patil ",
+      "email": "rahul@gmail.com",
+      "password": "Rahul9999",
+      "mobile": 4343333232
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
